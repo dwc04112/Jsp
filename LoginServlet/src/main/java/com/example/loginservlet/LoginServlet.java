@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 @WebServlet("/login")
-//login이 요청될때 호출되는
+//url 요청을 받는부분 . login이 요청될때 호출되는
 public class LoginServlet extends HttpServlet {
     public LoginServlet(){
         super();
