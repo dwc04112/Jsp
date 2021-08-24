@@ -40,7 +40,7 @@
           <td><input type="file" name ="fileName1" id ="fileName1"></td>
         </tr>
         <tr>
-          <td><label for ="fileName2">올린사람 : </label></td>
+          <td><label for ="fileName2">파일명2 : </label></td>
           <td><input type="file" name ="fileName2" id ="fileName2"></td>
         </tr>
         <tr>
